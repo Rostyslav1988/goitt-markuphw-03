@@ -560,33 +560,12 @@ margin-top: -30px;
     padding: 0;
     margin-top: 50px;
 }
-.products p {
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 30px;
-    letter-spacing: 0.03em;
-    color: var(--color-second-text);
-
-}
 .products-card {
     border: 1px solid #EEEEEE;
     border-top: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
-.products h3 {
-font-weight: bold;
-font-size: 18px;
-line-height: 36px;
-letter-spacing: 0.06em;
-color: #212121;
-
-border-bottom: none;
-
-    flex-wrap: wrap;
-    margin: 0;
-    padding: 0;
-    margin-top: 50px;
-}
-
 .products h3 {
     font-weight: bold;
     font-size: 18px;
@@ -595,32 +574,26 @@ border-bottom: none;
     color: var(--color-text);
     border-bottom: none;
 
-}
+    flex-wrap: wrap;
+    margin: 0;
 
+
+}
 
 .btn-porfolio-margin {
 margin-right: 10px;
 }
 
-.box-shadow {
-margin-right: 30px;
-}
+
 .box-shadow li{
 list-style-type: none;
 }
-.box-shadow3 {
-margin-top: 30px;
-}
+
 .box-shadoww li {
 list-style-type: none;
 }
-.box-shadow3 {
-    margin-top: 30px;
-}
 
-.box-shadow {
-    margin-right: 30px;
-}
+
 .box-shadow3 li {
 list-style-type: none;
 }
